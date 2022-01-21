@@ -18,6 +18,4 @@ for filename in os.listdir(image_folder):
     # convert images to png and save to the new folder
     img.save(f'{output_folder}{clean_name}.png', 'png')
     print('all done!')
-
-
- 
+    
