@@ -1,2 +1,2 @@
 # python_dev
-One day Python projects :)
+This repository contains one day Python projects :)
