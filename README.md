@@ -1,2 +1,2 @@
 # python_dev
-ne day Python projects :)
+One day Python projects :)
