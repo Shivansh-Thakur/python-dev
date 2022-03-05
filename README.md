@@ -1,3 +1,3 @@
 # python_dev
 
-mini projects
+One day mini projects
