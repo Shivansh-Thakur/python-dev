@@ -1,2 +1,2 @@
 # python_dev
-one day py projects
+one day mini py projects
